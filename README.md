@@ -25,10 +25,8 @@ My research focuses on developing computer vision systems that can learn effecti
 
 My primary research interests include:
 
-- Computer Vision and Deep Learning
-- Semantic and Instance Segmentation
+- Semantic and Instance Image Segmentation
 - Low-shot Learning
-- Camouflaged Object Detection and Segmentation
 - Generative Models and Synthetic Data
 - Medical Image Segmentation
 - Knowledge Distillation
@@ -75,7 +73,7 @@ For my complete biography, publications, projects, and research updates, please 
 
 **Nighttime Scene Understanding with Label Transfer Scene Parser**  
 **Thanh-Danh Nguyen**, Nguyen Phan, Tam V. Nguyen†, Vinh-Tiep Nguyen, and Minh-Triet Tran.  
-*Image and Vision Computing, 2024*
+*Image and Vision Computing, 2024.*
 
 [**Publication Page**](https://danhntd.github.io/research.html#2024) ·
 [**Project Page**](https://danhntd.github.io/projects.html#LTSP)
