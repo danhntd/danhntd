@@ -72,8 +72,9 @@ For my complete biography, publications, projects, and research updates, please 
 
 <br>
 
-**Nighttime Scene Understanding with Label Transfer Scene Parser**
-**Thanh-Danh Nguyen**, Nguyen Phan, Tam V. Nguyen†, Vinh-Tiep Nguyen, and Minh-Triet Tran.
+
+**Nighttime Scene Understanding with Label Transfer Scene Parser**  
+**Thanh-Danh Nguyen**, Nguyen Phan, Tam V. Nguyen†, Vinh-Tiep Nguyen, and Minh-Triet Tran.  
 *Image and Vision Computing, 2024*
 
 [**Publication Page**](https://danhntd.github.io/research.html#2024) ·
