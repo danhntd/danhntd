@@ -10,7 +10,6 @@ Researching **data-efficient computer vision**, with a focus on image segmentati
 
 [![Homepage](https://img.shields.io/badge/Academic_Homepage-danhntd.github.io-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danhntd.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=OHH4RPIAAAAJ)
-[![DBLP](https://img.shields.io/badge/DBLP-Bibliography-004F9F?style=for-the-badge)](https://dblp.org/pid/305/2136.html)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.danhnt@gmail.com)
 
 </div>
@@ -20,7 +19,6 @@ Researching **data-efficient computer vision**, with a focus on image segmentati
 ## About Me
 
 I am a PhD student in Computer Science at the **University of Information Technology, Vietnam National University Ho Chi Minh City - UIT, VNUHCM**.
-
 My research focuses on developing computer vision systems that can learn effectively from limited annotated data and operate under challenging visual conditions.
 
 My primary research interests include:
